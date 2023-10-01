@@ -29,4 +29,4 @@
 ![figma](https://img.shields.io/badge/figma-F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white)  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=purple11-11&layout=compact)
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=oijew)](https://solved.ac/profile/______)  
+<!-- [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=oijew)](https://solved.ac/profile/______)  -->
